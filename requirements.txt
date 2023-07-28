@@ -1,0 +1,5 @@
+Flask
+flasgger
+flask_basicauth
+flask_cors
+flask-mysql
